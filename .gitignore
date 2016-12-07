@@ -1,0 +1,16 @@
+#Virtualenv
+env/**
+
+#python specific
+*.pyc
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+###private data
+secret.py
+
